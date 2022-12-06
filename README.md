@@ -4,9 +4,9 @@
 # Annotation Tools
 
 <p align="center">
-  <a href="#Overview">Overview</a> •
-  <a href="#How-To-Run">How To Run</a> •
-  <a href="#Acknowledge">Acknowledgement</a> 
+  <a href="#BBox">Bounding Box</a> •
+  <a href="#Polygon">Polygon</a> •
+  <a href="#Brush">Brush</a> 
 </p>
 
 [![](https://img.shields.io/badge/supervisely-ecosystem-brightgreen)](https://ecosystem.supervise.ly/apps/supervisely-ecosystem/import-youtube-videos)
@@ -16,9 +16,6 @@
 [![runs](https://app.supervise.ly/img/badges/runs/supervisely-ecosystem/import-youtube-videos.png)](https://supervise.ly)
 
 </div>
-
-# Overview
-
 
 ## Bounding Box (BBox) as an annotation tool
 #### The BBox is used to quickly and easily determine the location of objects in an image.
@@ -54,15 +51,3 @@
 #### The Brush tool is used
 
 
-# How to Run
-
-
-
-## Result
-
-....
-
-
-
-# Acknowledgement
-This app is based on the great work `youtube-dl` ([github](https://github.com/ytdl-org/youtube-dl)). ![GitHub Org's stars](https://img.shields.io/github/stars/ytdl-org/youtube-dl?style=social)
