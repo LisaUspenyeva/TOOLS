@@ -19,7 +19,7 @@
 
 ## Bounding Box (BBox) as an annotation tool
 #### The BBox is used to quickly and easily determine the location of objects in an image.
-1. On the left toolbar, select the **rectangle tool** or press <tr><td><kbd>**6**</kbd></td></tr> 
+1. On the left toolbar, select the **rectangle tool** or press <tr><td><kbd>**6**</kbd></td></tr> on the keyboard.
 2. Put the bounding box around the object by placing two points.
 3. To complete the editing and create a new rectangle, press the check mark in the top left corner or <tr><td><kbd>**SPACE**</kbd></td></tr> on the keyboard.
 <img src="https://user-images.githubusercontent.com/119248312/206503505-b90b79c8-43fb-45b9-b67e-0a35c4fc0c3d.gif" width="700"/>
